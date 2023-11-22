@@ -3,6 +3,17 @@
     font-family: 'Times New Roman', Times, serif;  
 }
 
+.Center {
+    max-width: 960px; 
+    margin: 0 auto;
+    text-align: center; 
+}
+
+html, body, ul {
+    margin: 0; 
+    padding: 0;
+}
+
 .footer-header {
     background-size: cover;
     background-color: rgba(0,0,0,.3); 
@@ -19,6 +30,18 @@
     text-decoration: none; 
 }
 
+.Large-name {
+    color: black; 
+}
+
+.content-section {
+    min-height: 75vh;
+}
+
+.section-header {
+    color: black; 
+}
+
 .footer-nav li {
     display: inline; 
     text-decoration: none; 
@@ -29,9 +52,20 @@
     max-height: 400px; 
 }
 
+
+.resume {
+    width: 50vw; 
+    height: 75vh; 
+}
+
 .footer-nav a {
     padding: 2px; 
     text-decoration: none; 
+}
+
+.paragraph {
+    margin-left: 10vw; 
+    max-width: 90vw; 
 }
 
 .icons {
