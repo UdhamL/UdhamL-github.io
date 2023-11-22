@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;  
+}
+
+.footer-header {
+    background-size: cover;
+    background-color: rgba(0,0,0,.3); 
+    padding-bottom: 30px;  
+    padding-top: 5px; 
+}
+
+.header-nav li {
+    display: inline; 
+}
+
+.header-nav a {
+    padding: 1%; 
+    text-decoration: none; 
+}
+
+.footer-nav li {
+    display: inline; 
+    text-decoration: none; 
+}
+
+.pics {
+    max-width: 400px; 
+    max-height: 400px; 
+}
+
+.footer-nav a {
+    padding: 2px; 
+    text-decoration: none; 
+}
+
+.icons {
+    height: 2%; 
+    width: 2%; 
+}
